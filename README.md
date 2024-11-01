@@ -1,6 +1,9 @@
 
 Welcome to the Event Management Application! This app allows users to create, manage, and RSVP to events. It provides an intuitive interface for event organizers and attendees alike, enabling seamless event management.
 
+## Backend 
+https://github.com/Jamesarmas/rsvp-backend
+
 ## Installation
 To run the application locally, follow these steps:
 
