@@ -15,6 +15,11 @@ npm i
 npm run dev
 ```
 
+## Create an ENV file w/ the following variables:
+VITE_API_URL=
+VITE_GOOGLE_MAPS_API_KEY=
+
+
 ## Features
 Create new events with details such as title, date, and location.
 Edit existing events.
